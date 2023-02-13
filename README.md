@@ -6,4 +6,5 @@ The goal is to write numeric simulations of water-soluble-chlorophyll-binding-pr
 
 Dipole matrix we got from dipole potencial:
 
-image
+![image](https://user-images.githubusercontent.com/112314329/218576611-4e22bc10-28b7-4c3b-a07f-5ad2ec30f54f.png)
+
